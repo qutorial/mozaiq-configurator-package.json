@@ -1,0 +1,1 @@
+# mozaiq-configurator-package.json
